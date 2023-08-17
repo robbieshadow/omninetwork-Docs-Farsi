@@ -11,7 +11,7 @@
 
 ## پروتکل
 
-* [📪 بررسی اجمالی](prwtkl/brrsy-ajmaly.md)
+* [بررسی اجمالی](prwtkl/brrsy-ajmaly.md)
 * [📎 ری استیکینگ اتریوم](prwtkl/ry-astykyng-atrywm.md)
 * [نهایی شدن سریع](prwtkl/nhayy-shdn-srya.md)
 * [قابلیت برنامه ریزی متقابل جمع آوری](prwtkl/qablyt-brnamh-ryzy-mtqabl-jma-aawry.md)
@@ -25,4 +25,4 @@
 
 ## توسعه دهنده ها
 
-* [🎨 Omni Origins (Testnet V1)](twsah-dhndh-ha/omni-origins-testnet-v1.md)
+* [Omni Origins (Testnet V1)](twsah-dhndh-ha/omni-origins-testnet-v1.md)
