@@ -1,24 +1,28 @@
 # Table of contents
 
-* [👋 Welcome to A Product](README.md)
+* [🏠 خانه](README.md)
 
-## Overview
+## Omni
 
-* [💡 What we do](overview/what-we-do.md)
-* [✨ Our Features](overview/our-features.md)
+* [👁🗨 چشم انداز](omni/chshm-andaz.md)
+* [✨ معرفی](omni/marfy.md)
+* [ساخت برنامه‌های جمع‌بندی متقابل](omni/sakht-brnamh-hay-jma-bndy-mtqabl.md)
+* [موارد استفاده](omni/mward-astfadh.md)
 
-## Product Guides
+## پروتکل
 
-* [📪 Making a post](product-guides/making-a-post.md)
-* [📎 Understanding Projects](product-guides/understanding-projects.md)
+* [📪 بررسی اجمالی](prwtkl/brrsy-ajmaly.md)
+* [📎 ری استیکینگ اتریوم](prwtkl/ry-astykyng-atrywm.md)
+* [نهایی شدن سریع](prwtkl/nhayy-shdn-srya.md)
+* [قابلیت برنامه ریزی متقابل جمع آوری](prwtkl/qablyt-brnamh-ryzy-mtqabl-jma-aawry.md)
+* [گسترش بدون مجوز](prwtkl/gstrsh-bdwn-mjwz.md)
 
-## Fundamentals
+## زمینه
 
-* [🛠 Getting set up](fundamentals/getting-set-up/README.md)
-  * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
-  * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
+* [🛠 بلاک چین های مدولار](zmynh/blak-chyn-hay-mdwlar.md)
+* [اتریوم و رول آپ](zmynh/atrywm-w-rwl-aap.md)
+* [تسویه جمع بندی](zmynh/tswyh-jma-bndy.md)
 
-## Use Cases
+## توسعه دهنده ها
 
-* [🎨 For Designers](use-cases/for-designers.md)
-* [🖥 For Developers](use-cases/for-developers.md)
+* [🎨 Omni Origins (Testnet V1)](twsah-dhndh-ha/omni-origins-testnet-v1.md)
